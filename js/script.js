@@ -33,21 +33,28 @@
 	case 0:
         var s = new Audio('wav/scriminal/001.wav');
 		s.play();
+
 		track++;
         break;
     case 1:
         var s = new Audio('wav/scriminal/0001.wav');
 		s.play();
+		document.getElementById(#caption).innerHTML = "As he came";
+		document.getElementById(#caption).innerHTML = "into the window";
 		track ++;
         break;
     case 2:
         var s = new Audio('wav/scriminal/0002.wav');
 		s.play();
+		document.getElementById(#caption).innerHTML = "Was a sound ";
+		document.getElementById(#caption).innerHTML = "of a crescendo";
 		track ++;        
         break;
     case 3:
         var s = new Audio('wav/scriminal/0003.wav');
 		s.play();
+		document.getElementById(#caption).innerHTML = "He came  ";
+		document.getElementById(#caption).innerHTML = "into her apartment";
 		track ++;        
         break;
     case 4:
