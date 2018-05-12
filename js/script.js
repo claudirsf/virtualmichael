@@ -58,36 +58,530 @@
     case 4:
         var s = new Audio('wav/scriminal/0004.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "He left the bloodstains";
+		document.getElementById("letra2").innerHTML = "on the carpet";
 		track ++;        
         break;
 	case 5:
         var s = new Audio('wav/scriminal/0005.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "She was ";
+		document.getElementById("letra2").innerHTML = "sitting at the table";
 		track ++;        
         break;
 	case 6:
         var s = new Audio('wav/scriminal/0006.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "He could see";
+		document.getElementById("letra2").innerHTML = "she was unable";
 		track ++;        
         break;
 	case 7:
         var s = new Audio('wav/scriminal/0007.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "So she ran";
+		document.getElementById("letra2").innerHTML = "into the bedroom";
 		track ++;        
         break;
 	case 8:
         var s = new Audio('wav/scriminal/0008.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
 		track ++;    
         break;
 	case 9:
 	    var s = new Audio('wav/scriminal/0009.wav');
 		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
 		track ++;
+		break;
 	case 10:
 	    var s = new Audio('wav/scriminal/0010.wav');
 		s.play();
-		track ++; 
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 11:
+	    var s = new Audio('wav/scriminal/0011.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 12:
+	    var s = new Audio('wav/scriminal/0012.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 13:
+	    var s = new Audio('wav/scriminal/0013.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 14:
+	    var s = new Audio('wav/scriminal/0014.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 15:
+	    var s = new Audio('wav/scriminal/0015.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 16:
+	    var s = new Audio('wav/scriminal/0016.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 17:
+	    var s = new Audio('wav/scriminal/0017.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 18:
+	    var s = new Audio('wav/scriminal/0018.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 19:
+	    var s = new Audio('wav/scriminal/0019.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case 20:
+	    var s = new Audio('wav/scriminal/0020.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+		/*
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/00.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+	case :
+	    var s = new Audio('wav/scriminal/.wav');
+		s.play();
+		document.getElementById("letra1").innerHTML = "";
+		document.getElementById("letra2").innerHTML = "";
+		track ++;
+		break;
+		*/
 		
-	}
+		}
 	}
