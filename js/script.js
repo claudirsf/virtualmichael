@@ -174,70 +174,72 @@
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-		/*
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+		
+	case 21:
+	    var s = new Audio('wav/scriminal/0021.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 22:
+	    var s = new Audio('wav/scriminal/0022.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 23:
+	    var s = new Audio('wav/scriminal/0023.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 24:
+	    var s = new Audio('wav/scriminal/0024.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 25:
+	    var s = new Audio('wav/scriminal/0025.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 26:
+	    var s = new Audio('wav/scriminal/0026.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 27:
+	    var s = new Audio('wav/scriminal/0027.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 28:
+	    var s = new Audio('wav/scriminal/0028.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
-	case :
-	    var s = new Audio('wav/scriminal/00.wav');
+	case 29:
+	    var s = new Audio('wav/scriminal/0029.wav');
 		s.play();
 		document.getElementById("letra1").innerHTML = "";
 		document.getElementById("letra2").innerHTML = "";
 		track ++;
 		break;
+		
+	/*	
 	case :
 	    var s = new Audio('wav/scriminal/00.wav');
 		s.play();
